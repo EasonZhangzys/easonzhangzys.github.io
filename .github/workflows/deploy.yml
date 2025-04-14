@@ -1,5 +1,5 @@
 name: Deploy to GitHub Pages
-on: [push]
+on: master
 jobs:
   deploy:
     runs-on: ubuntu-latest
